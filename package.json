@@ -11,7 +11,7 @@
     "@fortawesome/react-fontawesome": "0.1.14",
     "font-awesome": "4.7.0",
     "bootstrap": "4.6.0",
-    "gatsby": "^3.4.0",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-google-analytics": "^3.4.0",
     "gatsby-plugin-google-fonts": "^0.0.4",
     "gatsby-plugin-manifest": "^3.4.0",
